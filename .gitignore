@@ -31,3 +31,7 @@
 *.out
 *.app
 Labeling/obj/
+
+
+.venv
+/api/__pycache__
